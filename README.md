@@ -59,22 +59,7 @@ Turning ideas into working software, all from an Android phone.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifferooz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&ring_color=a78bfa" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifferooz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifferooz&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="streak"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 Let's Build
 
