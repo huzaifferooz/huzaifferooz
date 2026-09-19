@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huzaifferooz.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifibniferooz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-huzaifferooz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifferooz)
 
